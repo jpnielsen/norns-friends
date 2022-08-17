@@ -16,5 +16,10 @@ toga_arcs_only.tosc<br>
 <br>
 <br>
 <br>
+toga_grid_controls_blue.tosc<br>
+<img width="1916" alt="image" src="https://user-images.githubusercontent.com/27916597/185212282-16c1421b-0b61-4cc9-8e85-bf31001ca9a3.png">
+<br>
+<br>
+<br>
 <br>
 original: https://norns.community/authors/wangpy/toga
