@@ -22,4 +22,6 @@ toga_grid_controls_blue.tosc<br>
 <br>
 <br>
 <br>
-original: https://norns.community/authors/wangpy/toga
+inspiration:<br>
+https://norns.community/authors/wangpy/toga<br>
+https://github.com/okyeron/Norns-TouchOSC<br>
